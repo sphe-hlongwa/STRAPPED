@@ -206,14 +206,7 @@
   .promo .btn:hover{background:var(--red);border-color:var(--red);color:#fff;}
 
   /* ---- Toast ---- */
-  #toast{
-    position:fixed;left:50%;bottom:26px;transform:translate(-50%,140%);
-    background:var(--ink);color:#fff;padding:14px 22px;font-size:13px;font-weight:600;
-    letter-spacing:.02em;transition:transform .35s cubic-bezier(.2,.8,.2,1);z-index:99;
-    border-radius:999px;
-  }
-  @media(max-width:760px){ #toast{bottom:calc(86px + env(safe-area-inset-bottom,0px));} }
-  #toast.show{transform:translate(-50%,0);}
+  #toast{display:none !important;}
 
   /* ---- Footer ---- */
   footer{background:var(--black);color:#c9c9c9;padding:64px 0 30px;}
