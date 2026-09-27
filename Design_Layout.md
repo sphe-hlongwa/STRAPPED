@@ -1,4 +1,4 @@
-# Strapped — Headless Shopify Clothing E-commerce
+# Strapped - Headless Shopify Clothing E-commerce
 
 ## 1. Project Overview
 
@@ -530,7 +530,7 @@ flowchart TD
 
 ## 21. Recommended Development Strategy
 
-### Phase 1 — Shopify Setup
+### Phase 1 - Shopify Setup
 
 1. Create Shopify store.
 2. Configure store settings.
@@ -542,7 +542,7 @@ flowchart TD
 8. Create collections.
 9. Configure basic store policies.
 
-### Phase 2 — Frontend
+### Phase 2 - Frontend
 
 1. Create Next.js application.
 2. Build global layout.
@@ -555,7 +555,7 @@ flowchart TD
 9. Implement cart.
 10. Connect Shopify checkout.
 
-### Phase 3 — Store Features
+### Phase 3 - Store Features
 
 1. Search.
 2. Filtering.
@@ -567,7 +567,7 @@ flowchart TD
 8. Discount handling.
 9. Product recommendations.
 
-### Phase 4 — Production
+### Phase 4 - Production
 
 1. Configure production environment variables.
 2. Deploy frontend.
